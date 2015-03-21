@@ -7,7 +7,7 @@
   <body>
   	<header>
 	<?php
-		$greeting = "Hello, world!";
+		$greeting = "Hello, Kyle!";
 		echo "<h1>$greeting</h1>";
 	?>
   	</header>
