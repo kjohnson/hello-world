@@ -1,0 +1,9 @@
+header,
+main {
+	width: 920px;
+	max-width: 100%;
+	margin: auto;
+}
+footer {
+	text-align: center;
+}
